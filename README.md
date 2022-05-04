@@ -4,7 +4,7 @@ Hi 👋 My name is Himanshu Singh
 Web Developer
 -------------
 
-I have been learning Web Development from 1 year . I started with Front-end but really got interested in Back-end. I am also familiar with C++ , Python and Data Structures.
+Creative, flexible and passionate learner . I started with Front-end but really got interested in Back-end. I am also familiar with C++ , Python and Data Structures.
 
 *   🌍  I'm based in Noida
 *   ✉️  You can contact me at [himanshusingh48415@gmail.com](mailto:himanshusingh48415@gmail.com)
