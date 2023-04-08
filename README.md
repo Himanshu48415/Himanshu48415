@@ -4,7 +4,7 @@ Hi 👋 My name is Himanshu Singh
 Web Developer
 -------------
 
-Creative, flexible and passionate learner . I started with Front-end but really got interested in Back-end. I am also familiar with C++ , Python and Data Structures.
+Creative, flexible and passionate learner . I am a MERN developer and I am passionate about building dynamic and scalable web applications using the MERN stack, which includes MongoDB, Express, React, and Node.js. Additionally, I possess knowledge of C++ along with Data Structures and Algorithms.
 
 *   🌍  I'm based in Noida
 *   ✉️  You can contact me at [himanshusingh48415@gmail.com](mailto:himanshusingh48415@gmail.com)
