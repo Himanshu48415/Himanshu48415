@@ -1,7 +1,7 @@
 Hi 👋 My name is Himanshu Singh
 ===============================
 
-Web Developer
+Software Developer
 -------------
 
 Creative, flexible and passionate learner . I am a MERN developer and I am passionate about building dynamic and scalable web applications using the MERN stack, which includes MongoDB, Express, React, and Node.js. Additionally, I possess knowledge of C++ along with Data Structures and Algorithms.
