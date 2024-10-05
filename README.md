@@ -4,11 +4,11 @@ Hi 👋 My name is Himanshu Singh
 Software Developer
 -------------
 
-Creative, flexible and passionate learner . I am a MERN developer and I am passionate about building dynamic and scalable web applications using the MERN stack, which includes MongoDB, Express, React, and Node.js. Additionally, I possess knowledge of C++ along with Data Structures and Algorithms.
+Creative, flexible and passionate learner . I am a MERN developer and I am passionate about building dynamic and scalable web applications using the MERN stack, which includes MongoDB, Express, React, and Node.js. Additionally, I possess knowledge of C++, Python, Flask along with Data Structures and Algorithms.
 
 *   🌍  I'm based in Noida
 *   ✉️  You can contact me at [himanshusingh48415@gmail.com](mailto:himanshusingh48415@gmail.com)
-*   🧠  I'm learning MongoDB<a href="https://www.github.com/Himanshu48415" target="_blank" rel="noreferrer"><img
+*   🧠 <a href="https://www.github.com/Himanshu48415" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Himanshu48415?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>### Skills<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
