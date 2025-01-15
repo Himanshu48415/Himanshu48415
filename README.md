@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Himanshu+Singh;Full+Stack+Developer;MERN+Stack+Developer&center=true&width=380&height=45">
 
-  <p>Creative, flexible and passionate learner specialized in MERN stack development. I build dynamic and scalable web applications with a focus on clean code and exceptional user experiences.</p>
+  <p>Creative, flexible and passionate learner specialized in Full stack development. I build dynamic and scalable web applications with a focus on clean code and exceptional user experiences.</p>
 </div>
 
 ## 🚀 About Me
