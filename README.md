@@ -19,11 +19,12 @@
 ## 🛠️ Tech Stack
 
 🔮 Core Competencies
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,py,react,ts,docker,redis,postgres,mongodb&perline=10" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,py,react,next,ts,docker,redis,postgres,mongodb&perline=10" /> </p>
 
 ### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
