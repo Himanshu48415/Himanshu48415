@@ -1,32 +1,3 @@
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    $ git log --author="Himanshu Singh" --oneline --graph --all       ║
-║                                                                      ║
-║    * 🟢  himanshu@dev  ~  Software Developer                         ║
-║    * 📍  Noida, India                                                ║
-║    * ⚡  Backend systems that scale to 10,000,000 users              ║
-║    * ☕  Coffee: CRITICAL_DEPENDENCY (do not remove)                 ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=1200&color=00f5d4&center=true&vCenter=true&width=750&height=36&lines=%24+git+commit+-m+%22feat%3A+system+that+survives+10M+concurrent+users%22;%24+kubectl+rollout+status+deploy%2Fprod+--watch+%E2%9C%93+success;%24+redis-cli+info+stats+%7C+grep+keyspace_hits+%23+ratio%3A+99.8%25;%24+kafka-consumer-groups+--describe+%7C+grep+LAG+%230;%24+docker+stats+--no-stream+%7C+awk+%27NR%3E1%7Bprint+%241%2C+%243%7D%27;%24+EXPLAIN+ANALYZE+SELECT+...+%23+Index+Scan+0.08ms+%E2%9C%93" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-4339b02a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu48415)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/himanshu152002/)
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshusingh48415@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Himanshu48415&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Himanshu48415)
-
-</div>
-
----
-
 ## `$ gh api /users/Himanshu48415 | jq .`
 
 ```json
@@ -41,8 +12,24 @@
   "status"      : "🟢 Open to Opportunities — response time < 1ms"
 }
 ```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=1200&color=00f5d4&center=true&vCenter=true&width=750&height=36&lines=%24+git+commit+-m+%22feat%3A+system+that+survives+10M+concurrent+users%22;%24+kubectl+rollout+status+deploy%2Fprod+--watch+%E2%9C%93+success;%24+redis-cli+info+stats+%7C+grep+keyspace_hits+%23+ratio%3A+99.8%25;%24+kafka-consumer-groups+--describe+%7C+grep+LAG+%230;%24+docker+stats+--no-stream+%7C+awk+%27NR%3E1%7Bprint+%241%2C+%243%7D%27;%24+EXPLAIN+ANALYZE+SELECT+...+%23+Index+Scan+0.08ms+%E2%9C%93" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-4339b02a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu48415)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/himanshu152002/)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshusingh48415@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Himanshu48415&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Himanshu48415)
+
+</div>
 
 ---
+
+
+
+
 
 ## `$ git log --oneline --graph --decorate --all`
 
