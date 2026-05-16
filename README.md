@@ -200,25 +200,6 @@ f44c201 (Himanshu  2 mos ago )   event sourcing    — state is a lie; the log i
 
 </div>
 
----
-
-## `$ git log --since="1 year ago" --format="%cd" --date=short | sort | uniq -c`
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu48415&bg_color=0d1117&color=00f5d4&line=7b2fff&point=ffffff&area=true&hide_border=true&area_color=0a0a2e&custom_title=commit+frequency+—+the+grind+never+stops"/>
-
-</div>
-
----
-
-## `$ git shortlog -sn --no-merges | head -1  # the numbers`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu48415&theme=darkhub&no-frame=true&margin-w=10&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
