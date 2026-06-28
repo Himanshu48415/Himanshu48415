@@ -213,14 +213,4 @@ f44c201 (Himanshu  2 mos ago )   event sourcing    — state is a lie; the log i
 
 </div>
 
-<br/>
 
-<div align="center">
-
-```
-"Most devs think about features.
- I think about what happens when 10 million people hit it at once."
-                                              — Himanshu Singh
-```
-
-</div>
